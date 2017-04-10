@@ -1,6 +1,6 @@
 # Source code for juliandawson.co.uk
 
-This is github.io page for juliandawson.co.uk. The site  built with HTML, Sass and Angular 2. The source repo can be found at [juliandawson-co-uk-website](https://github.com/juliandawson/juliandawson-co-uk-website).
+This is github.io page for juliandawson.co.uk. The site is built with HTML, Sass and Angular 2. The source repo can be found at [juliandawson-co-uk-website](https://github.com/juliandawson/juliandawson-co-uk-website).
 
 Thanks!
 
